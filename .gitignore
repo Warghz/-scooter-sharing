@@ -2,3 +2,4 @@ rides.csv
 weather.csv
 .venv/
 .env
+venv/
