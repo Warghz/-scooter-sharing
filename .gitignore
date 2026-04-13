@@ -3,3 +3,4 @@ weather.csv
 .venv/
 .env
 venv/
+.idea/
