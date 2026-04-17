@@ -2,6 +2,7 @@
 
 ## Описание
 Тут пока тишина.
+dashboard: https://datalens.ru/9h4chhxxgw0it
 
 ## Clone repo
 
