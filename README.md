@@ -3,7 +3,7 @@
 ## Описание
 Команда 22. Анализ сервиса аренды самокатов.  
 
-### dashboard: https://datalens.ru/9h4chhxxgw0it
+### dashboard: https://datalens.yandex/9h4chhxxgw0it
 
 ## Clone repo
 
