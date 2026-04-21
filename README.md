@@ -1,7 +1,9 @@
 # -scooter-sharing
 
 ## Описание
-Тут пока тишина.
+Команда 22. Анализ сервиса аренды самокатов.  
+
+### dashboard: https://datalens.ru/9h4chhxxgw0it
 
 ## Clone repo
 
@@ -26,8 +28,8 @@ pip install -r requirements/prod.txt
 pip install -r requirements/develop.txt  
 ```
 
-### Format code
+### Create .env
 
 ```bash
-black solve/{name}.ipynb
+echo 'DATA_PATH=""' > .env
 ```
